@@ -36,11 +36,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-To the maior, aldermen, and inhabitants of N. That whiche heretofore I haue propounded to you (right
+
+1. To the Maior, Aldermen, and Inhabitants of N.
+
 #####Body#####
-To the maior, aldermen, and inhabitants of N. That whiche heretofore I haue propounded to you (right
+
+1. A Dialogue againſt playing at Cardes and Tables.
+
 #####Back#####
-To the maior, aldermen, and inhabitants of N. That whiche heretofore I haue propounded to you (right
+Imprinted at London for Richard Boile.
 **Types of content**
 
   * There are 22 **drama** parts! This is **prose drama**.
